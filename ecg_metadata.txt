@@ -1,0 +1,5 @@
+Number of Leads: 3
+Lead Names: ['X', 'Y', 'Z']
+Sampling Frequency (Hz): 1000
+Signal Duration (seconds): 1196.0
+Shape of ECG Signals: (1196000, 3)
